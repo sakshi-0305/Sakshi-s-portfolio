@@ -22,9 +22,9 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
 
 Connect with me! Feel free to reach out for collaboration, job opportunities, or just to say hello.
 
-- **Email:** abhi09148299@gmail.com
+- **Email:** sakshibhadane4321@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/abhishek0914/](linkedin-link)
-- **Portfolio:** [https://killer-abhi.github.io/Portfolio/](your-portfolio-link)
+- **Portfolio:** [(your-portfolio-link](https://github.com/sakshi-0305/Sakshi-s-portfolio))
 
 ## License
 
